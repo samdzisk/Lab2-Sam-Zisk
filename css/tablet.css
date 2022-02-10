@@ -1,0 +1,13 @@
+body{
+    margin: 3%;
+}
+
+nav{
+    width: 90%;
+}
+
+nav a{
+    width: 20%;
+    padding: 0;
+    text-align: center;
+}

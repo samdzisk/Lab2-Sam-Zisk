@@ -1,0 +1,13 @@
+nav{
+    height: 20%;
+}
+
+nav a{
+    width: 45%;
+    padding: 3% 0;
+    font-size: 150%;
+}
+
+h1, h2, footer{
+    padding-left: 5%;
+}
